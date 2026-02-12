@@ -1,1 +1,4 @@
 # Ugeopgave-Metoder
+
+Daud Ibragimov
+
